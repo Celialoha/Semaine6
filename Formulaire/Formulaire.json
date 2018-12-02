@@ -1,0 +1,27 @@
+{
+	"FormulaireClient": [{
+			"Nom": "Aymar",
+			"Prenom": "Jean",
+			"Âge": "52",
+			"Profession": "ouvrier",
+			"Email": "j.a@mail.com",
+			"Téléphone": "0102030405"
+		},
+		{
+			"Nom": "Picasso",
+			"Prenom": "Pablo",
+			"Âge": "74",
+			"Profession": "peintre",
+			"Email": "p.p@mail.com",
+			"Téléphone": "0908070605"
+		},
+		{
+			"Nom": "Dali",
+			"Prenom": "Salvador",
+			"Âge": "63",
+			"Profession": "peintre",
+			"Email": "s.d@mail.com",
+			"Téléphone": "50050005"
+		}
+	]
+}
